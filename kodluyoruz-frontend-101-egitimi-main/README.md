@@ -1,6 +1,6 @@
 # Kodluyoruz - FrontEnd 101 Eğitimi
-> Hakan Yalçınkaya 
-> > [LinkedIn](https://www.linkedin.com/in/hakanyalcinkaya/) - [YouTube](https://www.youtube.com/hakanyalcinkaya?sub_confirmation=1) - [Medium](https://medium.com/@hakanyalcinkaya)
+> Mert Güneş
+> > [LinkedIn](https://www.linkedin.com/in/mert-g%C3%BCne%C5%9F-489143213/) -
 
 ## Eğitimin Genel Hedefi:
 * Yazılım Dünyasına yeni adım atan kişiler için temel konuların incelenmesi
